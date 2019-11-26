@@ -1,29 +1,18 @@
 # Specialist Websites [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> oddly specific and highly specialized websites
+> Specialist websites, for a lack of better term, are oddly specific and highly specialized websites that are usually maintained by a single person or a small team who wants to share his or her passion with the world. They are often halfway between a blog and a normal website, have minimal CSS and often feel like early 2000's websites. They often conain an inordinate amount of information about their topic of interest and make for fascinating reads wether or not you may ever need that information. If you are confused, check some of them out and you will quickly understand what this is about.
 
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+Note: For now, there are too few websites to be organized into sections. If this list grows as I hope it does, I will reorganize it.
 
-
-## Section
-
-About this section. Optional. Keep this short and focus on the list.
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
-## Another Section
-
-### Subsection
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+[Sheldon Brown](https://sheldonbrown.com/) - Bicycle advice, from *how to shift gears* to complete bike overhauls. Incredible amount of details and often opinionated advice on how to do just about everything with your bike. 
+[Floor Elf](https://floorelf.com/) - If you thought it wasn't possible to be passionate about tiling, you were so very wrong. Everything about tiling floors, waterproofing showers, and about why failure in doing the above correctly may result in your dog catching fire. 
+[Ask the Electrician](https://ask-the-electrician.com/) - You guessed it. Mostly about all the incorrect ways that you can wire things, and how to fix those.
+[Piano-Ology](https://piano-ology.com/) - Don't let the somewhat fancy CSS fool you: despite a recent redesign, Frank Peter has been writing about music and piano playing for an eternity in internet-time. Besides the wealth of information from beginner to professional level, he has a warm way of writing and speaking that leaves you wishing you had him as a grandpa.
+[Stick Site](http://www.sticksite.com/) - Everything you didn't know you needed to know about walking sticks and more specifically, diamond willow walking sticks. 
+[RockTumbler](https://rocktumbler.com/questions.shtml) - Although technically a commercial website, it still qualifies as a specialist website for the sheer amount of information it has on rock tumbling. 
 
 ## Contribute
 

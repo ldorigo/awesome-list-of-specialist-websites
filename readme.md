@@ -19,6 +19,10 @@ Note: For now, there are too few websites to be organized into sections. If this
 
 [RockTumbler](https://rocktumbler.com/questions.shtml) - Although technically a commercial website, it still qualifies as a specialist website for the sheer amount of information it has on rock tumbling. 
 
+[SoftPanorama](http://www.softpanorama.org/index.shtml) - A _huge_ collection of articles about system administration, OSS and politics.
+
+
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.

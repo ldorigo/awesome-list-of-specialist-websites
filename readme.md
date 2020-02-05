@@ -9,7 +9,7 @@ Note: For now, there are too few websites to be organized into sections. If this
 
 [Sheldon Brown](https://sheldonbrown.com/) - Bicycle advice, from *how to shift gears* to complete bike overhauls. Incredible amount of details and often opinionated advice on how to do just about everything with your bike. 
 
-[Floor Elf](https://floorelf.com/) - If you thought it wasn't possible to be passionate about tiling, you were so very wrong. Everything about tiling floors, waterproofing showers, and about why failure in doing the above correctly may result in your dog catching fire. 
+[Floor Elf](https://floorelf.com/) - If you thought it wasn't possible to be passionate about tiling, you were wrong. Everything about tiling floors, waterproofing showers, and why failure in doing the above correctly may result in your dog catching fire. 
 
 [Ask the Electrician](https://ask-the-electrician.com/) - You guessed it. Mostly about all the incorrect ways that you can wire things, and how to fix those.
 

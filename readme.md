@@ -1,6 +1,7 @@
-# Specialist Websites [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# A nostalgic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) list of Specialist Websites 
 
-> Specialist websites, for a lack of better term, are oddly specific and highly specialized websites that are usually maintained by a single person or a small team who wants to share his or her passion with the world. They are often halfway between a blog and a normal website, have minimal CSS and often feel like early 2000's websites. They often conain an inordinate amount of information about their topic of interest and make for fascinating reads wether or not you may ever need that information. If you are confused, check some of them out and you will quickly understand what this is about.
+> Remember when the internet used to suck less (or more, depending on perspective)? Those were the days of blinking welcome messages, insufficient contrast ratios and dubious design choices. But most of all, those were the days where the internet consisted mostly of small, personal, specialized websites where the authors shared their passion for the widest variety of weirdly specific topics.
+> This list aims to collect a few notable survivors from that era. If you're still confused about what we're talking about, visit a few of them and it'll become clear what we are talking about. And if you know some other gems, share them with the community!
 
 
 ## Contents

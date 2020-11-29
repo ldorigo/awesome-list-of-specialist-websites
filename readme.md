@@ -1,6 +1,6 @@
 # A nostalgic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) list of Specialist Websites 
 
-> Remember when the internet used to suck less (or more, depending on perspective)? Those were the days of blinking welcome messages, insufficient contrast ratios and dubious design choices. But most of all, those were the days where the internet consisted mostly of small, personal, specialized websites where the authors shared their passion for the widest variety of weirdly specific topics.
+> Remember when the internet used to suck less (or more, depending on perspective)? Those were the days of blinking welcome messages, insufficient contrast ratios and dubious design choices. But most of all, those were the days where the internet was full of small, personal, weirdly specialized websites where the authors shared their passion for the widest variety of topics.
 > This list aims to collect a few notable survivors from that era. If you're still confused about what we're talking about, visit a few of them and it'll become clear what we are talking about. And if you know some other gems, share them with the community!
 
 

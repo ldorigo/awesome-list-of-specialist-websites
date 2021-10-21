@@ -1,7 +1,7 @@
-# A nostalgic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) list of Specialist Websites 
+# A nostalgic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) list of weirdly specialized websites 
 
-> Remember when the internet used to suck less (or more, depending on perspective)? Those were the days of blinking welcome messages, insufficient contrast ratios and dubious design choices. But most of all, those were the days where the internet was full of small, personal, weirdly specialized websites where the authors shared their passion for the widest variety of topics.
-> This list aims to collect a few notable survivors from that era. If you're still confused about what we're talking about, visit a few of them and it'll become clear what we are talking about. And if you know some other gems, share them with the community!
+> Remember when the internet used to suck less (or more, depending on who you ask)? Those were the days of blinking welcome messages, insufficient contrast ratios, cheesy songs on autoplay and unfortunate color combinations. But mostly, those were the days where the internet was full of small, personal, weirdly specialized websites where the authors shared their passion for the the most random things.
+> This list collects a few notable survivors from that era. If you're still confused about what this is about, visit a few of them and you'll know exactly what we mean. And please share similar gems with the community!
 
 
 ## Contents
@@ -22,7 +22,7 @@ Note: For now, there are too few websites to be organized into sections. If this
 
 [SoftPanorama](http://www.softpanorama.org/index.shtml) - A _huge_ collection of articles about system administration, OSS and politics.
 
-
+[The Duct Tape Guys](http://www.octanecreative.com/ducttape/suitcase_interface/index.html) - Yup. A whole website. About duct tape. 
 
 ## Contribute
 

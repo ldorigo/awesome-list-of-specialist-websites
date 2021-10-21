@@ -18,7 +18,7 @@ Note: For now, there are too few websites to be organized into sections. If this
 
 [Stick Site](http://www.sticksite.com/) - Everything you didn't know you needed to know about walking sticks and more specifically, diamond willow walking sticks. 
 
-[RockTumbler](https://rocktumbler.com/questions.shtml) - Although technically a commercial website, it still qualifies as a specialist website for the sheer amount of information it has on rock tumbling. 
+[RockTumbler](https://rocktumbler.com/questions.shtml) - Although technically a commercial website, it still qualifies as a specialist website for the sheer amount of information it has on rock tumbling (and for its complete disregard of modern CSS). 
 
 [SoftPanorama](http://www.softpanorama.org/index.shtml) - A _huge_ collection of articles about system administration, OSS and politics.
 

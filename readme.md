@@ -1,6 +1,6 @@
 # A nostalgic [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) list of weirdly specialized websites 
 
-> Remember when the internet used to suck less (or more, depending on who you ask)? Those were the days of blinking welcome messages, insufficient contrast ratios, cheesy songs on autoplay and unfortunate color combinations. But mostly, those were the days where the internet was full of small, personal, weirdly specialized websites where the authors shared their passion for the the most random things.
+> Remember when the internet used to suck less (or more, depending on who you ask)? Those were the days of blinking welcome messages, insufficient contrast ratios, cheesy songs on autoplay and unfortunate color combinations. But more importantly, those were the days where the internet was full of small, personal, weirdly specialized websites where the authors shared their passion for the the most random things.
 > This list collects a few notable survivors from that era. If you're still confused about what this is about, visit a few of them and you'll know exactly what we mean. And please share similar gems with the community!
 
 

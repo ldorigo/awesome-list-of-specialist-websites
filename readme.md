@@ -24,6 +24,8 @@ Note: For now, there are too few websites to be organized into sections. If this
 
 [The Duct Tape Guys](http://www.octanecreative.com/ducttape/suitcase_interface/index.html) - Yup. A whole website. About duct tape. 
 
+[The Calculator Home Page](https://www.calculator.org/) - Judging by the amount of entries in the database, this guys was really, *really* into digital calculators.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.

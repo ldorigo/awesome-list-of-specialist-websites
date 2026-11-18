@@ -28,6 +28,8 @@ Note: For now, there are too few websites to be organized into sections. If this
 
 [No Stairs Please](https://nostairsplease.com/) - A weirdly specialized directory and interactive drive-time map of small, independent live-music venues across all 50 US states, DC, and British Columbia—documenting load-in details, stairs, stage setup, and house pull for touring DIY bands.
 
+[Daily location games with photo and map clues](https://bestdaily.games/collections/games-like-farflung/) - A small index for a niche within geography games: figuring out a place from a photo or map clue. It distinguishes map pins and country guesses from geography trivia with rare answers.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.

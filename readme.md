@@ -28,6 +28,8 @@ Note: For now, there are too few websites to be organized into sections. If this
 
 [No Stairs Please](https://nostairsplease.com/) - A weirdly specialized directory and interactive drive-time map of small, independent live-music venues across all 50 US states, DC, and British Columbia—documenting load-in details, stairs, stage setup, and house pull for touring DIY bands.
 
+[StagePeek](https://stagepeek.live/) - Interactive 2D seating maps and 3D concert stage-view simulator covering 201 global stadiums, domes, and arenas, with 1x–10x smartphone camera zoom framing and End / Thrust Runway / 360° Center layouts.
+
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
